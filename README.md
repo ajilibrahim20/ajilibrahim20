@@ -41,7 +41,9 @@
 
 <a href="https://www.python.org" target="_blank"> <img alt="Python" width="40"  height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"/> </a>
   <a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="java" width="40" height="40"/> </a> 
- 
+
+ <img src=" ![image](https://user-images.githubusercontent.com/64395352/125818768-39086e77-bf4e-4ef9-8bde-f531cba6b435.png)" alt="c" width="40" height="40"/>
+
 
 
 
