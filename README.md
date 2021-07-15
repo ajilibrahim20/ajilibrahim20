@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ajil Ibrahim</h1>
 <h3 align="center">A young professional who currently pursuing Btech Second year in CS.</h3>
-<h4 align="center">Well obedient and punctual guy from Christ College of Engineering</h4>
+<h3 align="center">Well obedient and punctual guy from Christ College of Engineering</h3>
 
 
 
