@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning , Cryptography**
 
-- 🤝 I’m looking for help with **MEAN Stack**
+- 🤝 I’m looking for help with **Cryptography**
 
 - 💬 Ask me about **Web Design,API and Machine Learning**
 
@@ -44,11 +44,11 @@
 
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarathithikkatt&show_icons=true&theme=dark&locale=en&layout=compact" alt="sarathithikkatt" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajilibrahim20&show_icons=true&theme=dark&locale=en&layout=compact" alt="ajilibrahim20" /></p>
 
 <br>
 <p>&nbsp
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarathithikkatt&show_icons=true&theme=dark&title_color=d9d9d9&text_color=dfdddd&locale=en" alt="sarathithikkatt" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajilibrahim20&show_icons=true&theme=dark&title_color=d9d9d9&text_color=dfdddd&locale=en" alt="ajilibrahim20" /></p>
 
 <br>
 
@@ -57,12 +57,7 @@
 <h3 align="left">Support:</h3>
 <p>
   
-<br>
-<a href="https://tinyurl.com/myupi" class="upi-pay1">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="210" alt="UPI"/>
-  </a>
 
-</p>
 <br>
 <br>
 
