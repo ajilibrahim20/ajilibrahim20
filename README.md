@@ -4,13 +4,13 @@
 
 
 
-- 🔭 I’m currently working on **Cryptography**
+- 🔭 I’m currently working on **REST API**
 
-- 🌱 I’m currently learning **Machine Learning and Cryptography**
+- 🌱 I’m currently learning **React.js, Node.js and REST API**
 
 - 🤝 I’m looking for help with **Machine Learning and Automation**
 
-- 💬 Ask me about **Web design, Machine Learning and Cryptography**
+- 💬 Ask me about **Web Development and Object Oriented Programing**
 
 - 📫 How to reach me **ajilibrahim20@gmail.com**
 
